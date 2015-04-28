@@ -17,3 +17,4 @@ interface INarrateSettings {
     control:HTMLElement;
     position:number;
 }
+
